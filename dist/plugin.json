@@ -2,6 +2,7 @@
   "id": "grafana-datadog-datasource",
   "name": "DataDog",
   "type": "datasource",
+  "alerting": true,
 
   "metrics": true,
   "annotations": true,
